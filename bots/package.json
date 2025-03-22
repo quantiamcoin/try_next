@@ -10,6 +10,5 @@
       "node-telegram-bot-api": "^0.61.0",
       "sqlite3": "^5.0.2",
       "winston": "^3.8.2",
-      "worker_threads": "^1.6.2"
     }
   }
