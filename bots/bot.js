@@ -25,7 +25,7 @@ const BOT_TOKENS = process.env.BOT_TOKENS ?
     require('./config.json').BOT_TOKENS;
 
 // Bot Configuration
-const GROUP_NAME = "meandsaint";
+const GROUP_NAME = "quantiamaicoin";
 const DB_PATH = 'quantik_chat.db';
 
 const { messages, commonPhrases, botConfig } = require('./data');
