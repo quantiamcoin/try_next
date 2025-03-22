@@ -1,0 +1,1009 @@
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:07.543Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:07.730Z"}
+{"level":"info","message":"Bot 1 waiting for initial delay of 0 minutes","timestamp":"2025-03-22T06:29:07.635Z"}
+{"level":"info","message":"Bot 3 waiting for initial delay of 6 minutes","timestamp":"2025-03-22T06:29:07.816Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.265Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.281Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:07.833Z"}
+{"level":"info","message":"Bot 7 waiting for initial delay of 33.333333333333336 minutes","timestamp":"2025-03-22T06:29:07.932Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:08.025Z"}
+{"level":"info","message":"Bot 11 waiting for initial delay of 46.66666666666667 minutes","timestamp":"2025-03-22T06:29:08.081Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:08.016Z"}
+{"level":"info","message":"Bot 9 waiting for initial delay of 40 minutes","timestamp":"2025-03-22T06:29:08.068Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:07.932Z"}
+{"level":"info","message":"Bot 8 waiting for initial delay of 36.666666666666664 minutes","timestamp":"2025-03-22T06:29:08.000Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.356Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.373Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.374Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.376Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:08.008Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:08.058Z"}
+{"level":"info","message":"Bot 4 waiting for initial delay of 12 minutes","timestamp":"2025-03-22T06:29:08.082Z"}
+{"level":"info","message":"Bot 10 waiting for initial delay of 43.33333333333333 minutes","timestamp":"2025-03-22T06:29:08.115Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.416Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.430Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:07.758Z"}
+{"level":"info","message":"Bot 12 waiting for initial delay of 50 minutes","timestamp":"2025-03-22T06:29:07.843Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:07.820Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:07.914Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.477Z"}
+{"level":"info","message":"Bot 2 waiting for initial delay of 3 minutes","timestamp":"2025-03-22T06:29:07.982Z"}
+{"level":"info","message":"Bot 6 waiting for initial delay of 30 minutes","timestamp":"2025-03-22T06:29:07.900Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.489Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:08.102Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.496Z"}
+{"level":"info","message":"Bot 5 waiting for initial delay of 20 minutes","timestamp":"2025-03-22T06:29:08.167Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.498Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:08.209Z"}
+{"level":"info","message":"Bot 14 waiting for initial delay of 56.666666666666664 minutes","timestamp":"2025-03-22T06:29:08.275Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.513Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:08.169Z"}
+{"level":"info","message":"Bot 13 waiting for initial delay of 53.33333333333333 minutes","timestamp":"2025-03-22T06:29:08.246Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.525Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T06:29:08.204Z"}
+{"level":"info","message":"Bot 15 waiting for initial delay of 60 minutes","timestamp":"2025-03-22T06:29:08.270Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T06:29:08.533Z"}
+{"level":"info","message":"Bot 3 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:08.947Z"}
+{"level":"info","message":"Bot 1 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:08.948Z"}
+{"level":"info","message":"Bot 8 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:08.953Z"}
+{"level":"info","message":"Bot 7 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:08.989Z"}
+{"level":"info","message":"Bot 11 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:08.989Z"}
+{"level":"info","message":"Bot 9 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:08.995Z"}
+{"level":"info","message":"Bot 4 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:09.021Z"}
+{"level":"info","message":"Bot 10 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:09.121Z"}
+{"level":"info","message":"Bot 12 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:09.136Z"}
+{"level":"info","message":"Bot 2 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:09.167Z"}
+{"level":"info","message":"Bot 14 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:09.209Z"}
+{"level":"info","message":"Bot 6 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:09.226Z"}
+{"level":"info","message":"Bot 5 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:09.231Z"}
+{"level":"info","message":"Bot 15 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:09.233Z"}
+{"level":"info","message":"Bot 13 chat ID: -1002323603413","timestamp":"2025-03-22T06:29:09.257Z"}
+{"level":"info","message":"Bot 3 member status: member","timestamp":"2025-03-22T06:29:09.282Z"}
+{"level":"info","message":"Bot 3 (Kellen567_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.282Z"}
+{"level":"info","message":"Bot 1 member status: member","timestamp":"2025-03-22T06:29:09.291Z"}
+{"level":"info","message":"Bot 1 (Macusderrick_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.291Z"}
+{"level":"info","message":"Bot 8 member status: member","timestamp":"2025-03-22T06:29:09.304Z"}
+{"level":"info","message":"Bot 8 (Andelmark256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.304Z"}
+{"level":"info","message":"Bot 11 member status: administrator","timestamp":"2025-03-22T06:29:09.324Z"}
+{"level":"info","message":"Bot 11 (Kyle345_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.324Z"}
+{"level":"info","message":"Bot 7 member status: member","timestamp":"2025-03-22T06:29:09.330Z"}
+{"level":"info","message":"Bot 7 (Klyn_doge_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.330Z"}
+{"level":"info","message":"Bot 9 member status: member","timestamp":"2025-03-22T06:29:09.332Z"}
+{"level":"info","message":"Bot 9 (Teddymark68799_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.333Z"}
+{"level":"info","message":"Bot 4 member status: member","timestamp":"2025-03-22T06:29:09.354Z"}
+{"level":"info","message":"Bot 4 (Crypto_guy_256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.354Z"}
+{"level":"info","message":"Bot 10 member status: member","timestamp":"2025-03-22T06:29:09.462Z"}
+{"level":"info","message":"Bot 10 (quanti_details_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.463Z"}
+{"level":"info","message":"Bot 12 member status: member","timestamp":"2025-03-22T06:29:09.469Z"}
+{"level":"info","message":"Bot 12 (Malik_uae_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.470Z"}
+{"level":"info","message":"Bot 2 member status: member","timestamp":"2025-03-22T06:29:09.500Z"}
+{"level":"info","message":"Bot 2 (Damascus256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.500Z"}
+{"level":"info","message":"Bot 14 member status: member","timestamp":"2025-03-22T06:29:09.543Z"}
+{"level":"info","message":"Bot 14 (Ashley4789_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.543Z"}
+{"level":"info","message":"Bot 15 member status: administrator","timestamp":"2025-03-22T06:29:09.566Z"}
+{"level":"info","message":"Bot 15 (Lindaz_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.567Z"}
+{"level":"info","message":"Bot 5 member status: member","timestamp":"2025-03-22T06:29:09.570Z"}
+{"level":"info","message":"Bot 5 (Isma_dubai_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.570Z"}
+{"level":"info","message":"Bot 6 member status: member","timestamp":"2025-03-22T06:29:09.585Z"}
+{"level":"info","message":"Bot 6 (Destiny256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.585Z"}
+{"level":"info","message":"Bot 13 member status: member","timestamp":"2025-03-22T06:29:09.589Z"}
+{"level":"info","message":"Bot 13 (quantiam_ad_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T06:29:09.589Z"}
+{"level":"info","message":"Bot 1 sent daily greeting: Morning folks!","timestamp":"2025-03-22T06:29:13.157Z"}
+{"level":"info","message":"Bot 3 initialized successfully","timestamp":"2025-03-22T06:29:39.451Z"}
+{"level":"info","message":"Bot 1 initialized successfully","timestamp":"2025-03-22T06:29:39.460Z"}
+{"level":"info","message":"Bot 8 initialized successfully","timestamp":"2025-03-22T06:29:39.473Z"}
+{"level":"info","message":"Bot 11 initialized successfully","timestamp":"2025-03-22T06:29:39.495Z"}
+{"level":"info","message":"Bot 9 initialized successfully","timestamp":"2025-03-22T06:29:39.500Z"}
+{"level":"info","message":"Bot 7 initialized successfully","timestamp":"2025-03-22T06:29:39.503Z"}
+{"level":"info","message":"Bot 4 initialized successfully","timestamp":"2025-03-22T06:29:39.523Z"}
+{"level":"info","message":"Bot 10 initialized successfully","timestamp":"2025-03-22T06:29:39.635Z"}
+{"level":"info","message":"Bot 12 initialized successfully","timestamp":"2025-03-22T06:29:39.639Z"}
+{"level":"info","message":"Bot 2 initialized successfully","timestamp":"2025-03-22T06:29:39.667Z"}
+{"level":"info","message":"Bot 14 initialized successfully","timestamp":"2025-03-22T06:29:39.711Z"}
+{"level":"info","message":"Bot 15 initialized successfully","timestamp":"2025-03-22T06:29:39.736Z"}
+{"level":"info","message":"Bot 5 initialized successfully","timestamp":"2025-03-22T06:29:39.742Z"}
+{"level":"info","message":"Bot 13 initialized successfully","timestamp":"2025-03-22T06:29:39.756Z"}
+{"level":"info","message":"Bot 6 initialized successfully","timestamp":"2025-03-22T06:29:39.766Z"}
+{"level":"info","message":"Bot 2 sent daily greeting: Rise and shine!","timestamp":"2025-03-22T06:32:12.996Z"}
+{"level":"info","message":"Bot 1 has 157 new messages available","timestamp":"2025-03-22T06:34:13.162Z"}
+{"level":"info","message":"Bot 1 sent message: Decentralized finance needs more AI-driven solutions like this.","timestamp":"2025-03-22T06:34:17.074Z"}
+{"level":"info","message":"Bot 3 sent daily greeting: Hi there!","timestamp":"2025-03-22T06:35:12.543Z"}
+{"level":"info","message":"Bot 2 has 156 new messages available","timestamp":"2025-03-22T06:37:13.025Z"}
+{"level":"info","message":"Bot 2 sent message: Quantik’s cross-chain liquidity aggregation is what caught my eye.","timestamp":"2025-03-22T06:37:17.180Z"}
+{"level":"info","message":"Bot 3 has 155 new messages available","timestamp":"2025-03-22T06:40:12.553Z"}
+{"level":"info","message":"Bot 3 sent message: The Quantik presale will make early investors rich! 💸","timestamp":"2025-03-22T06:40:16.028Z"}
+{"level":"info","message":"Bot 4 sent daily greeting: Hey folks!","timestamp":"2025-03-22T06:41:13.079Z"}
+{"level":"info","message":"Bot 1 has 154 new messages available","timestamp":"2025-03-22T06:42:20.080Z"}
+{"level":"info","message":"Cleaning up...","timestamp":"2025-03-22T06:42:22.016Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.468Z"}
+{"level":"info","message":"Bot 6 waiting for initial delay of 30 minutes","timestamp":"2025-03-22T11:18:00.540Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.070Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.587Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.395Z"}
+{"level":"info","message":"Bot 4 waiting for initial delay of 1.2 minutes","timestamp":"2025-03-22T11:18:00.680Z"}
+{"level":"info","message":"Bot 10 waiting for initial delay of 43.33333333333333 minutes","timestamp":"2025-03-22T11:18:00.461Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.117Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.123Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.298Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.710Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.828Z"}
+{"level":"info","message":"Bot 8 waiting for initial delay of 36.666666666666664 minutes","timestamp":"2025-03-22T11:18:00.880Z"}
+{"level":"info","message":"Bot 13 waiting for initial delay of 53.33333333333333 minutes","timestamp":"2025-03-22T11:18:00.816Z"}
+{"level":"info","message":"Bot 7 waiting for initial delay of 33.333333333333336 minutes","timestamp":"2025-03-22T11:18:00.432Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.659Z"}
+{"level":"info","message":"Bot 5 waiting for initial delay of 2 minutes","timestamp":"2025-03-22T11:18:00.733Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.874Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.650Z"}
+{"level":"info","message":"Bot 1 waiting for initial delay of 0 minutes","timestamp":"2025-03-22T11:18:00.721Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.189Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.399Z"}
+{"level":"info","message":"Bot 2 waiting for initial delay of 0.5 minutes","timestamp":"2025-03-22T11:18:00.492Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.662Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.207Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.209Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.208Z"}
+{"level":"info","message":"Bot 9 waiting for initial delay of 40 minutes","timestamp":"2025-03-22T11:18:00.727Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.217Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.237Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.644Z"}
+{"level":"info","message":"Bot 11 waiting for initial delay of 46.66666666666667 minutes","timestamp":"2025-03-22T11:18:00.714Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.430Z"}
+{"level":"info","message":"Bot 3 waiting for initial delay of 0.8 minutes","timestamp":"2025-03-22T11:18:00.581Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.259Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.273Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:00.840Z"}
+{"level":"info","message":"Bot 12 waiting for initial delay of 50 minutes","timestamp":"2025-03-22T11:18:00.873Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.279Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.281Z"}
+{"level":"info","message":"Bot 14 waiting for initial delay of 56.666666666666664 minutes","timestamp":"2025-03-22T11:18:00.925Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.296Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:18:01.027Z"}
+{"level":"info","message":"Bot 15 waiting for initial delay of 60 minutes","timestamp":"2025-03-22T11:18:01.091Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:18:01.312Z"}
+{"level":"info","message":"Bot 6 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.743Z"}
+{"level":"info","message":"Bot 10 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.775Z"}
+{"level":"info","message":"Bot 1 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.775Z"}
+{"level":"info","message":"Bot 4 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.786Z"}
+{"level":"info","message":"Bot 5 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.805Z"}
+{"level":"info","message":"Bot 11 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.807Z"}
+{"level":"info","message":"Bot 9 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.814Z"}
+{"level":"info","message":"Bot 8 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.893Z"}
+{"level":"info","message":"Bot 13 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.909Z"}
+{"level":"info","message":"Bot 7 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.911Z"}
+{"level":"info","message":"Bot 14 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.915Z"}
+{"level":"info","message":"Bot 2 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.966Z"}
+{"level":"info","message":"Bot 3 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.971Z"}
+{"level":"info","message":"Bot 12 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:01.985Z"}
+{"level":"info","message":"Bot 15 chat ID: -1002323603413","timestamp":"2025-03-22T11:18:02.023Z"}
+{"level":"info","message":"Bot 6 member status: member","timestamp":"2025-03-22T11:18:02.076Z"}
+{"level":"info","message":"Bot 6 (Teddymark68799_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.076Z"}
+{"level":"info","message":"Bot 10 member status: member","timestamp":"2025-03-22T11:18:02.110Z"}
+{"level":"info","message":"Bot 10 (Klyn_doge_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.110Z"}
+{"level":"info","message":"Bot 1 member status: member","timestamp":"2025-03-22T11:18:02.112Z"}
+{"level":"info","message":"Bot 1 (Destiny256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.113Z"}
+{"level":"info","message":"Bot 4 member status: administrator","timestamp":"2025-03-22T11:18:02.119Z"}
+{"level":"info","message":"Bot 4 (Lindaz_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.119Z"}
+{"level":"info","message":"Bot 5 member status: member","timestamp":"2025-03-22T11:18:02.137Z"}
+{"level":"info","message":"Bot 5 (Isma_dubai_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.138Z"}
+{"level":"info","message":"Bot 11 member status: member","timestamp":"2025-03-22T11:18:02.161Z"}
+{"level":"info","message":"Bot 11 (Crypto_guy_256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.161Z"}
+{"level":"info","message":"Bot 9 member status: member","timestamp":"2025-03-22T11:18:02.220Z"}
+{"level":"info","message":"Bot 9 (Malik_uae_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.221Z"}
+{"level":"info","message":"Bot 8 member status: member","timestamp":"2025-03-22T11:18:02.230Z"}
+{"level":"info","message":"Bot 8 (Macusderrick_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.231Z"}
+{"level":"info","message":"Bot 14 member status: administrator","timestamp":"2025-03-22T11:18:02.247Z"}
+{"level":"info","message":"Bot 14 (Kyle345_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.248Z"}
+{"level":"info","message":"Bot 7 member status: member","timestamp":"2025-03-22T11:18:02.253Z"}
+{"level":"info","message":"Bot 7 (Andelmark256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.253Z"}
+{"level":"info","message":"Bot 13 member status: member","timestamp":"2025-03-22T11:18:02.255Z"}
+{"level":"info","message":"Bot 13 (quantiam_ad_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.256Z"}
+{"level":"info","message":"Bot 2 member status: member","timestamp":"2025-03-22T11:18:02.301Z"}
+{"level":"info","message":"Bot 2 (quanti_details_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.301Z"}
+{"level":"info","message":"Bot 3 member status: member","timestamp":"2025-03-22T11:18:02.310Z"}
+{"level":"info","message":"Bot 3 (Kellen567_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.310Z"}
+{"level":"info","message":"Bot 12 member status: member","timestamp":"2025-03-22T11:18:02.324Z"}
+{"level":"info","message":"Bot 12 (Ashley4789_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.324Z"}
+{"level":"info","message":"Bot 15 member status: member","timestamp":"2025-03-22T11:18:02.360Z"}
+{"level":"info","message":"Bot 15 (Damascus256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:18:02.360Z"}
+{"level":"info","message":"Bot 1 sent daily greeting: Hey folks!","timestamp":"2025-03-22T11:18:05.832Z"}
+{"level":"info","message":"Bot 1 initialized successfully","timestamp":"2025-03-22T11:18:17.405Z"}
+{"level":"info","message":"Bot 14 initialized successfully","timestamp":"2025-03-22T11:18:17.472Z"}
+{"level":"info","message":"Bot 4 initialized successfully","timestamp":"2025-03-22T11:18:17.556Z"}
+{"level":"info","message":"Bot 6 initialized successfully","timestamp":"2025-03-22T11:18:32.244Z"}
+{"level":"info","message":"Bot 10 initialized successfully","timestamp":"2025-03-22T11:18:32.279Z"}
+{"level":"info","message":"Bot 5 initialized successfully","timestamp":"2025-03-22T11:18:32.333Z"}
+{"level":"info","message":"Bot 11 initialized successfully","timestamp":"2025-03-22T11:18:32.333Z"}
+{"level":"info","message":"Bot 9 initialized successfully","timestamp":"2025-03-22T11:18:32.389Z"}
+{"level":"info","message":"Bot 8 initialized successfully","timestamp":"2025-03-22T11:18:32.399Z"}
+{"level":"info","message":"Bot 7 initialized successfully","timestamp":"2025-03-22T11:18:32.421Z"}
+{"level":"info","message":"Bot 13 initialized successfully","timestamp":"2025-03-22T11:18:32.438Z"}
+{"level":"info","message":"Bot 2 initialized successfully","timestamp":"2025-03-22T11:18:32.470Z"}
+{"level":"info","message":"Bot 3 initialized successfully","timestamp":"2025-03-22T11:18:32.483Z"}
+{"level":"info","message":"Bot 12 initialized successfully","timestamp":"2025-03-22T11:18:32.503Z"}
+{"level":"info","message":"Bot 15 initialized successfully","timestamp":"2025-03-22T11:18:32.540Z"}
+{"level":"info","message":"Bot 2 sent daily greeting: Hey everyone!","timestamp":"2025-03-22T11:18:35.257Z"}
+{"level":"info","message":"Bot 3 sent daily greeting: Good evening!","timestamp":"2025-03-22T11:18:53.509Z"}
+{"level":"info","message":"Bot 4 sent daily greeting: Hey, hope you're having a great evening!","timestamp":"2025-03-22T11:19:18.647Z"}
+{"level":"info","message":"Bot 5 sent daily greeting: Good night!","timestamp":"2025-03-22T11:20:05.680Z"}
+{"level":"info","message":"Bot 1 has 152 new messages available","timestamp":"2025-03-22T11:23:05.856Z"}
+{"level":"info","message":"Bot 1 sent message: The presale is just the beginning—Quantik is going places! 🌍","timestamp":"2025-03-22T11:23:08.802Z"}
+{"level":"info","message":"Bot 2 has 151 new messages available","timestamp":"2025-03-22T11:23:35.261Z"}
+{"level":"info","message":"Bot 2 sent message: Time to get in on the Quantik presale before it’s too late! ⏳","timestamp":"2025-03-22T11:23:38.892Z"}
+{"level":"info","message":"Bot 3 has 150 new messages available","timestamp":"2025-03-22T11:23:53.517Z"}
+{"level":"info","message":"Bot 3 sent message: GM! Quantik presale is happening now—let’s gooo! 🙌","timestamp":"2025-03-22T11:23:56.969Z"}
+{"level":"info","message":"Bot 4 has 149 new messages available","timestamp":"2025-03-22T11:24:18.652Z"}
+{"level":"info","message":"Bot 4 sent message: The presale price for Quantik is going to be a steal once it moons! 💸","timestamp":"2025-03-22T11:24:24.338Z"}
+{"level":"info","message":"Bot 5 has 148 new messages available","timestamp":"2025-03-22T11:25:05.694Z"}
+{"level":"info","message":"Bot 5 sent message: Now’s your chance to be part of Quantik’s presale before it blows up! 💥","timestamp":"2025-03-22T11:25:11.049Z"}
+{"level":"info","message":"Bot 1 has 147 new messages available","timestamp":"2025-03-22T11:25:11.815Z"}
+{"level":"info","message":"Bot 1 sent message: Quantik presale is about to take over the crypto space! Get in while you can! 🔥","timestamp":"2025-03-22T11:25:15.144Z"}
+{"level":"info","message":"Cleaning up...","timestamp":"2025-03-22T11:26:30.728Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.446Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.155Z"}
+{"level":"info","message":"Bot 5 waiting for initial delay of 2 minutes","timestamp":"2025-03-22T11:26:45.530Z"}
+{"level":"info","message":"Bot 3 waiting for initial delay of 0.8 minutes","timestamp":"2025-03-22T11:26:45.230Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.241Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:45.898Z"}
+{"level":"info","message":"Bot 7 waiting for initial delay of 33.333333333333336 minutes","timestamp":"2025-03-22T11:26:45.322Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.341Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.438Z"}
+{"level":"info","message":"Bot 4 waiting for initial delay of 1.2 minutes","timestamp":"2025-03-22T11:26:45.447Z"}
+{"level":"info","message":"Bot 12 waiting for initial delay of 50 minutes","timestamp":"2025-03-22T11:26:45.502Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.272Z"}
+{"level":"info","message":"Bot 8 waiting for initial delay of 36.666666666666664 minutes","timestamp":"2025-03-22T11:26:45.383Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.600Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:45.943Z"}
+{"level":"info","message":"Bot 10 waiting for initial delay of 43.33333333333333 minutes","timestamp":"2025-03-22T11:26:45.690Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:45.956Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:45.957Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.555Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:45.973Z"}
+{"level":"info","message":"Bot 14 waiting for initial delay of 56.666666666666664 minutes","timestamp":"2025-03-22T11:26:45.608Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.219Z"}
+{"level":"info","message":"Bot 2 waiting for initial delay of 0.5 minutes","timestamp":"2025-03-22T11:26:45.309Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.067Z"}
+{"level":"info","message":"Bot 13 waiting for initial delay of 53.33333333333333 minutes","timestamp":"2025-03-22T11:26:45.110Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.545Z"}
+{"level":"info","message":"Bot 1 waiting for initial delay of 0 minutes","timestamp":"2025-03-22T11:26:45.598Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:46.039Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:46.040Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:46.046Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:46.049Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:46.051Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:46.066Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.707Z"}
+{"level":"info","message":"Bot 6 waiting for initial delay of 30 minutes","timestamp":"2025-03-22T11:26:45.778Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.786Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.789Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:46.145Z"}
+{"level":"info","message":"Bot 15 waiting for initial delay of 60 minutes","timestamp":"2025-03-22T11:26:45.825Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:46.153Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:26:45.817Z"}
+{"level":"info","message":"Bot 11 waiting for initial delay of 46.66666666666667 minutes","timestamp":"2025-03-22T11:26:45.908Z"}
+{"level":"info","message":"Bot 9 waiting for initial delay of 40 minutes","timestamp":"2025-03-22T11:26:45.841Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:46.158Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:26:46.161Z"}
+{"level":"info","message":"Bot 3 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.559Z"}
+{"level":"info","message":"Bot 4 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.584Z"}
+{"level":"info","message":"Bot 1 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.621Z"}
+{"level":"info","message":"Bot 10 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.657Z"}
+{"level":"info","message":"Bot 7 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.660Z"}
+{"level":"info","message":"Bot 5 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.667Z"}
+{"level":"info","message":"Bot 12 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.672Z"}
+{"level":"info","message":"Bot 8 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.673Z"}
+{"level":"info","message":"Bot 2 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.710Z"}
+{"level":"info","message":"Bot 6 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.732Z"}
+{"level":"info","message":"Bot 14 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.735Z"}
+{"level":"info","message":"Bot 13 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.745Z"}
+{"level":"info","message":"Bot 15 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.844Z"}
+{"level":"info","message":"Bot 9 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.852Z"}
+{"level":"info","message":"Bot 3 member status: member","timestamp":"2025-03-22T11:26:46.892Z"}
+{"level":"info","message":"Bot 3 (quantiam_ad_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:46.892Z"}
+{"level":"info","message":"Bot 11 chat ID: -1002323603413","timestamp":"2025-03-22T11:26:46.895Z"}
+{"level":"info","message":"Bot 4 member status: member","timestamp":"2025-03-22T11:26:46.925Z"}
+{"level":"info","message":"Bot 4 (Destiny256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:46.925Z"}
+{"level":"info","message":"Bot 1 member status: member","timestamp":"2025-03-22T11:26:46.953Z"}
+{"level":"info","message":"Bot 1 (Teddymark68799_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:46.953Z"}
+{"level":"info","message":"Bot 10 member status: member","timestamp":"2025-03-22T11:26:46.991Z"}
+{"level":"info","message":"Bot 10 (quanti_details_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:46.991Z"}
+{"level":"info","message":"Bot 7 member status: member","timestamp":"2025-03-22T11:26:46.999Z"}
+{"level":"info","message":"Bot 7 (Andelmark256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:46.999Z"}
+{"level":"info","message":"Bot 5 member status: member","timestamp":"2025-03-22T11:26:47.000Z"}
+{"level":"info","message":"Bot 5 (Kellen567_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:47.001Z"}
+{"level":"info","message":"Bot 12 member status: administrator","timestamp":"2025-03-22T11:26:47.006Z"}
+{"level":"info","message":"Bot 8 member status: administrator","timestamp":"2025-03-22T11:26:47.007Z"}
+{"level":"info","message":"Bot 12 (Kyle345_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:47.007Z"}
+{"level":"info","message":"Bot 8 (Lindaz_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:47.008Z"}
+{"level":"info","message":"Bot 2 member status: member","timestamp":"2025-03-22T11:26:47.054Z"}
+{"level":"info","message":"Bot 2 (Ashley4789_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:47.055Z"}
+{"level":"info","message":"Bot 6 member status: member","timestamp":"2025-03-22T11:26:47.068Z"}
+{"level":"info","message":"Bot 6 (Damascus256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:47.068Z"}
+{"level":"info","message":"Bot 14 member status: member","timestamp":"2025-03-22T11:26:47.076Z"}
+{"level":"info","message":"Bot 14 (Malik_uae_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:47.076Z"}
+{"level":"info","message":"Bot 13 member status: member","timestamp":"2025-03-22T11:26:47.085Z"}
+{"level":"info","message":"Bot 13 (Klyn_doge_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:47.085Z"}
+{"level":"info","message":"Bot 15 member status: member","timestamp":"2025-03-22T11:26:47.177Z"}
+{"level":"info","message":"Bot 15 (Isma_dubai_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:47.178Z"}
+{"level":"info","message":"Bot 9 member status: member","timestamp":"2025-03-22T11:26:47.186Z"}
+{"level":"info","message":"Bot 9 (Crypto_guy_256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:47.186Z"}
+{"level":"info","message":"Bot 11 member status: member","timestamp":"2025-03-22T11:26:47.230Z"}
+{"level":"info","message":"Bot 11 (Macusderrick_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:26:47.230Z"}
+{"level":"info","message":"Bot 1 sent daily greeting: Good afternoon!","timestamp":"2025-03-22T11:26:50.887Z"}
+{"level":"info","message":"Bot 1 initialized successfully","timestamp":"2025-03-22T11:27:04.650Z"}
+{"level":"info","message":"Bot 12 initialized successfully","timestamp":"2025-03-22T11:27:04.720Z"}
+{"level":"info","message":"Bot 8 initialized successfully","timestamp":"2025-03-22T11:27:04.804Z"}
+{"level":"info","message":"Bot 3 initialized successfully","timestamp":"2025-03-22T11:27:17.060Z"}
+{"level":"info","message":"Bot 4 initialized successfully","timestamp":"2025-03-22T11:27:17.093Z"}
+{"level":"info","message":"Bot 10 initialized successfully","timestamp":"2025-03-22T11:27:17.159Z"}
+{"level":"info","message":"Bot 7 initialized successfully","timestamp":"2025-03-22T11:27:17.171Z"}
+{"level":"info","message":"Bot 5 initialized successfully","timestamp":"2025-03-22T11:27:17.175Z"}
+{"level":"info","message":"Bot 2 initialized successfully","timestamp":"2025-03-22T11:27:17.224Z"}
+{"level":"info","message":"Bot 14 initialized successfully","timestamp":"2025-03-22T11:27:17.244Z"}
+{"level":"info","message":"Bot 6 initialized successfully","timestamp":"2025-03-22T11:27:17.251Z"}
+{"level":"info","message":"Bot 13 initialized successfully","timestamp":"2025-03-22T11:27:17.257Z"}
+{"level":"info","message":"Bot 15 initialized successfully","timestamp":"2025-03-22T11:27:17.349Z"}
+{"level":"info","message":"Bot 9 initialized successfully","timestamp":"2025-03-22T11:27:17.354Z"}
+{"level":"info","message":"Bot 11 initialized successfully","timestamp":"2025-03-22T11:27:17.399Z"}
+{"level":"info","message":"Bot 2 sent daily greeting: Hey everyone!","timestamp":"2025-03-22T11:27:19.962Z"}
+{"level":"info","message":"Bot 3 sent daily greeting: Hey, hope you're having a great evening!","timestamp":"2025-03-22T11:27:39.494Z"}
+{"level":"info","message":"Bot 4 sent daily greeting: Evening all!","timestamp":"2025-03-22T11:28:02.459Z"}
+{"level":"info","message":"Bot 5 sent daily greeting: Hey, hope you had a good day!","timestamp":"2025-03-22T11:28:52.181Z"}
+{"level":"info","message":"Cleaning up...","timestamp":"2025-03-22T11:29:18.927Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.799Z"}
+{"level":"info","message":"Bot 13 waiting for initial delay of 53.33333333333333 minutes","timestamp":"2025-03-22T11:29:31.872Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.183Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.762Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.537Z"}
+{"level":"info","message":"Bot 4 waiting for initial delay of 1.2 minutes","timestamp":"2025-03-22T11:29:31.617Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.213Z"}
+{"level":"info","message":"Bot 5 waiting for initial delay of 2 minutes","timestamp":"2025-03-22T11:29:31.832Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.876Z"}
+{"level":"info","message":"Bot 12 waiting for initial delay of 50 minutes","timestamp":"2025-03-22T11:29:31.944Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.686Z"}
+{"level":"info","message":"Bot 2 waiting for initial delay of 0.5 minutes","timestamp":"2025-03-22T11:29:31.764Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.333Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.894Z"}
+{"level":"info","message":"Bot 1 waiting for initial delay of 0 minutes","timestamp":"2025-03-22T11:29:31.960Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.372Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.945Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.716Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.406Z"}
+{"level":"info","message":"Bot 7 waiting for initial delay of 33.333333333333336 minutes","timestamp":"2025-03-22T11:29:31.799Z"}
+{"level":"info","message":"Bot 9 waiting for initial delay of 40 minutes","timestamp":"2025-03-22T11:29:32.021Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.803Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:32.125Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:32.124Z"}
+{"level":"info","message":"Bot 11 waiting for initial delay of 46.66666666666667 minutes","timestamp":"2025-03-22T11:29:32.168Z"}
+{"level":"info","message":"Bot 3 waiting for initial delay of 0.8 minutes","timestamp":"2025-03-22T11:29:31.870Z"}
+{"level":"warn","message":"Bot 3 request failed, retrying in 10000ms...","timestamp":"2025-03-22T11:29:32.413Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:32.030Z"}
+{"level":"info","message":"Bot 10 waiting for initial delay of 43.33333333333333 minutes","timestamp":"2025-03-22T11:29:32.098Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.455Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.438Z"}
+{"level":"info","message":"Bot 15 waiting for initial delay of 60 minutes","timestamp":"2025-03-22T11:29:31.533Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.462Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.474Z"}
+{"level":"info","message":"Bot 14 waiting for initial delay of 56.666666666666664 minutes","timestamp":"2025-03-22T11:29:32.131Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.491Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.496Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.496Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.810Z"}
+{"level":"info","message":"Bot 8 waiting for initial delay of 36.666666666666664 minutes","timestamp":"2025-03-22T11:29:31.881Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.541Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.550Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:29:31.929Z"}
+{"level":"info","message":"Bot 6 waiting for initial delay of 30 minutes","timestamp":"2025-03-22T11:29:31.974Z"}
+{"level":"warn","message":"Bot 13 request failed, retrying in 10000ms...","timestamp":"2025-03-22T11:29:32.554Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.558Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:29:32.559Z"}
+{"level":"info","message":"Bot 5 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:32.977Z"}
+{"level":"info","message":"Bot 4 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:32.982Z"}
+{"level":"info","message":"Bot 12 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:32.987Z"}
+{"level":"info","message":"Bot 2 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:32.996Z"}
+{"level":"info","message":"Bot 1 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:33.102Z"}
+{"level":"info","message":"Bot 14 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:33.102Z"}
+{"level":"info","message":"Bot 9 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:33.140Z"}
+{"level":"info","message":"Bot 7 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:33.156Z"}
+{"level":"info","message":"Bot 10 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:33.181Z"}
+{"level":"info","message":"Bot 15 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:33.193Z"}
+{"level":"info","message":"Bot 11 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:33.196Z"}
+{"level":"info","message":"Bot 6 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:33.265Z"}
+{"level":"info","message":"Bot 5 member status: member","timestamp":"2025-03-22T11:29:33.310Z"}
+{"level":"info","message":"Bot 5 (Macusderrick_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.311Z"}
+{"level":"info","message":"Bot 4 member status: member","timestamp":"2025-03-22T11:29:33.317Z"}
+{"level":"info","message":"Bot 4 (quantiam_ad_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.317Z"}
+{"level":"info","message":"Bot 12 member status: administrator","timestamp":"2025-03-22T11:29:33.320Z"}
+{"level":"info","message":"Bot 12 (Lindaz_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.320Z"}
+{"level":"info","message":"Bot 2 member status: member","timestamp":"2025-03-22T11:29:33.328Z"}
+{"level":"info","message":"Bot 2 (Damascus256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.328Z"}
+{"level":"info","message":"Bot 8 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:33.417Z"}
+{"level":"info","message":"Bot 14 member status: member","timestamp":"2025-03-22T11:29:33.440Z"}
+{"level":"info","message":"Bot 14 (Crypto_guy_256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.441Z"}
+{"level":"info","message":"Bot 1 member status: member","timestamp":"2025-03-22T11:29:33.463Z"}
+{"level":"info","message":"Bot 1 (Teddymark68799_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.463Z"}
+{"level":"info","message":"Bot 9 member status: member","timestamp":"2025-03-22T11:29:33.474Z"}
+{"level":"info","message":"Bot 9 (Malik_uae_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.475Z"}
+{"level":"info","message":"Bot 7 member status: member","timestamp":"2025-03-22T11:29:33.515Z"}
+{"level":"info","message":"Bot 7 (quanti_details_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.515Z"}
+{"level":"info","message":"Bot 10 member status: member","timestamp":"2025-03-22T11:29:33.521Z"}
+{"level":"info","message":"Bot 10 (Ashley4789_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.522Z"}
+{"level":"info","message":"Bot 15 member status: member","timestamp":"2025-03-22T11:29:33.527Z"}
+{"level":"info","message":"Bot 11 member status: member","timestamp":"2025-03-22T11:29:33.529Z"}
+{"level":"info","message":"Bot 15 (Kellen567_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.527Z"}
+{"level":"info","message":"Bot 11 (Andelmark256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.530Z"}
+{"level":"info","message":"Bot 6 member status: member","timestamp":"2025-03-22T11:29:33.598Z"}
+{"level":"info","message":"Bot 6 (Isma_dubai_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.599Z"}
+{"level":"info","message":"Bot 8 member status: member","timestamp":"2025-03-22T11:29:33.749Z"}
+{"level":"info","message":"Bot 8 (Destiny256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:33.750Z"}
+{"level":"info","message":"Bot 1 sent daily greeting: Hey everyone!","timestamp":"2025-03-22T11:29:37.062Z"}
+{"level":"info","message":"Bot 3 request succeeded after 1 retries","timestamp":"2025-03-22T11:29:42.932Z"}
+{"level":"info","message":"Bot 13 request succeeded after 1 retries","timestamp":"2025-03-22T11:29:43.070Z"}
+{"level":"info","message":"Bot 3 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:43.170Z"}
+{"level":"info","message":"Bot 13 chat ID: -1002323603413","timestamp":"2025-03-22T11:29:43.316Z"}
+{"level":"info","message":"Bot 3 member status: administrator","timestamp":"2025-03-22T11:29:43.507Z"}
+{"level":"info","message":"Bot 3 (Kyle345_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:43.507Z"}
+{"level":"info","message":"Bot 13 member status: member","timestamp":"2025-03-22T11:29:43.648Z"}
+{"level":"info","message":"Bot 13 (Klyn_doge_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:29:43.648Z"}
+{"level":"info","message":"Bot 12 initialized successfully","timestamp":"2025-03-22T11:29:46.151Z"}
+{"level":"info","message":"Bot 3 initialized successfully","timestamp":"2025-03-22T11:29:46.188Z"}
+{"level":"info","message":"Bot 5 initialized successfully","timestamp":"2025-03-22T11:30:03.478Z"}
+{"level":"info","message":"Bot 4 initialized successfully","timestamp":"2025-03-22T11:30:03.488Z"}
+{"level":"info","message":"Bot 2 initialized successfully","timestamp":"2025-03-22T11:30:03.497Z"}
+{"level":"info","message":"Bot 14 initialized successfully","timestamp":"2025-03-22T11:30:03.608Z"}
+{"level":"info","message":"Bot 1 initialized successfully","timestamp":"2025-03-22T11:30:03.633Z"}
+{"level":"info","message":"Bot 9 initialized successfully","timestamp":"2025-03-22T11:30:03.642Z"}
+{"level":"info","message":"Bot 10 initialized successfully","timestamp":"2025-03-22T11:30:03.692Z"}
+{"level":"info","message":"Bot 7 initialized successfully","timestamp":"2025-03-22T11:30:03.692Z"}
+{"level":"info","message":"Bot 11 initialized successfully","timestamp":"2025-03-22T11:30:03.699Z"}
+{"level":"info","message":"Bot 15 initialized successfully","timestamp":"2025-03-22T11:30:03.717Z"}
+{"level":"info","message":"Bot 6 initialized successfully","timestamp":"2025-03-22T11:30:03.767Z"}
+{"level":"info","message":"Bot 8 initialized successfully","timestamp":"2025-03-22T11:30:03.918Z"}
+{"level":"info","message":"Bot 2 sent daily greeting: Good afternoon!","timestamp":"2025-03-22T11:30:06.661Z"}
+{"level":"info","message":"Bot 13 initialized successfully","timestamp":"2025-03-22T11:30:13.819Z"}
+{"level":"info","message":"Bot 3 sent daily greeting: Good evening!","timestamp":"2025-03-22T11:30:24.804Z"}
+{"level":"info","message":"Bot 4 sent daily greeting: Hey, hope you're having a great evening!","timestamp":"2025-03-22T11:30:49.934Z"}
+{"level":"info","message":"Bot 5 sent daily greeting: Sweet dreams!","timestamp":"2025-03-22T11:31:36.845Z"}
+{"level":"info","message":"Cleaning up...","timestamp":"2025-03-22T11:33:31.970Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:28.734Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:29.076Z"}
+{"level":"info","message":"Bot 1 waiting for initial delay of 0 minutes","timestamp":"2025-03-22T11:34:29.162Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:29.003Z"}
+{"level":"info","message":"Bot 15 waiting for initial delay of 60 minutes","timestamp":"2025-03-22T11:34:28.807Z"}
+{"level":"info","message":"Bot 7 waiting for initial delay of 33.333333333333336 minutes","timestamp":"2025-03-22T11:34:29.091Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:28.971Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.581Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:28.827Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:29.368Z"}
+{"level":"info","message":"Bot 6 waiting for initial delay of 30 minutes","timestamp":"2025-03-22T11:34:29.448Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:29.200Z"}
+{"level":"info","message":"Bot 8 waiting for initial delay of 36.666666666666664 minutes","timestamp":"2025-03-22T11:34:29.261Z"}
+{"level":"info","message":"Bot 5 waiting for initial delay of 2 minutes","timestamp":"2025-03-22T11:34:28.917Z"}
+{"level":"info","message":"Bot 3 waiting for initial delay of 0.8 minutes","timestamp":"2025-03-22T11:34:29.041Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:28.993Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.617Z"}
+{"level":"info","message":"Bot 2 waiting for initial delay of 0.5 minutes","timestamp":"2025-03-22T11:34:29.075Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.662Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:29.194Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:29.211Z"}
+{"level":"info","message":"Bot 4 waiting for initial delay of 1.2 minutes","timestamp":"2025-03-22T11:34:29.266Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.683Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:29.229Z"}
+{"level":"info","message":"Bot 14 waiting for initial delay of 56.666666666666664 minutes","timestamp":"2025-03-22T11:34:29.255Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:29.020Z"}
+{"level":"info","message":"Bot 11 waiting for initial delay of 46.66666666666667 minutes","timestamp":"2025-03-22T11:34:29.120Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.696Z"}
+{"level":"info","message":"Bot 10 waiting for initial delay of 43.33333333333333 minutes","timestamp":"2025-03-22T11:34:29.300Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.715Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.715Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:29.073Z"}
+{"level":"info","message":"Bot 12 waiting for initial delay of 50 minutes","timestamp":"2025-03-22T11:34:29.154Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.725Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.746Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.747Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.736Z"}
+{"level":"warn","message":"Bot 1 request failed, retrying in 10000ms...","timestamp":"2025-03-22T11:34:29.800Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:29.357Z"}
+{"level":"info","message":"Bot 9 waiting for initial delay of 40 minutes","timestamp":"2025-03-22T11:34:29.386Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.817Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.822Z"}
+{"level":"warn","message":"Bot 8 request failed, retrying in 10000ms...","timestamp":"2025-03-22T11:34:29.835Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T11:34:29.256Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.843Z"}
+{"level":"info","message":"Bot 13 waiting for initial delay of 53.33333333333333 minutes","timestamp":"2025-03-22T11:34:29.305Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T11:34:29.849Z"}
+{"level":"info","message":"Bot 15 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.227Z"}
+{"level":"info","message":"Bot 3 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.309Z"}
+{"level":"info","message":"Bot 5 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.310Z"}
+{"level":"info","message":"Bot 7 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.331Z"}
+{"level":"info","message":"Bot 12 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.346Z"}
+{"level":"info","message":"Bot 6 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.350Z"}
+{"level":"info","message":"Bot 2 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.357Z"}
+{"level":"info","message":"Bot 14 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.375Z"}
+{"level":"info","message":"Bot 11 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.416Z"}
+{"level":"info","message":"Bot 4 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.425Z"}
+{"level":"info","message":"Bot 10 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.486Z"}
+{"level":"info","message":"Bot 9 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.532Z"}
+{"level":"info","message":"Bot 15 member status: member","timestamp":"2025-03-22T11:34:30.562Z"}
+{"level":"info","message":"Bot 15 (Destiny256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.562Z"}
+{"level":"info","message":"Bot 13 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:30.584Z"}
+{"level":"info","message":"Bot 3 member status: member","timestamp":"2025-03-22T11:34:30.652Z"}
+{"level":"info","message":"Bot 3 (Damascus256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.652Z"}
+{"level":"info","message":"Bot 5 member status: member","timestamp":"2025-03-22T11:34:30.658Z"}
+{"level":"info","message":"Bot 5 (Macusderrick_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.658Z"}
+{"level":"info","message":"Bot 7 member status: administrator","timestamp":"2025-03-22T11:34:30.665Z"}
+{"level":"info","message":"Bot 7 (Lindaz_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.665Z"}
+{"level":"info","message":"Bot 12 member status: member","timestamp":"2025-03-22T11:34:30.685Z"}
+{"level":"info","message":"Bot 12 (Teddymark68799_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.685Z"}
+{"level":"info","message":"Bot 6 member status: member","timestamp":"2025-03-22T11:34:30.692Z"}
+{"level":"info","message":"Bot 2 member status: member","timestamp":"2025-03-22T11:34:30.692Z"}
+{"level":"info","message":"Bot 6 (quanti_details_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.692Z"}
+{"level":"info","message":"Bot 2 (quantiam_ad_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.693Z"}
+{"level":"info","message":"Bot 14 member status: member","timestamp":"2025-03-22T11:34:30.709Z"}
+{"level":"info","message":"Bot 14 (Klyn_doge_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.709Z"}
+{"level":"info","message":"Bot 11 member status: member","timestamp":"2025-03-22T11:34:30.759Z"}
+{"level":"info","message":"Bot 11 (Andelmark256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.759Z"}
+{"level":"info","message":"Bot 4 member status: member","timestamp":"2025-03-22T11:34:30.762Z"}
+{"level":"info","message":"Bot 4 (Ashley4789_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.762Z"}
+{"level":"info","message":"Bot 10 member status: administrator","timestamp":"2025-03-22T11:34:30.827Z"}
+{"level":"info","message":"Bot 10 (Kyle345_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.827Z"}
+{"level":"info","message":"Bot 9 member status: member","timestamp":"2025-03-22T11:34:30.870Z"}
+{"level":"info","message":"Bot 9 (Malik_uae_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.870Z"}
+{"level":"info","message":"Bot 13 member status: member","timestamp":"2025-03-22T11:34:30.918Z"}
+{"level":"info","message":"Bot 13 (Crypto_guy_256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:30.918Z"}
+{"level":"error","message":"Bot 1 has no chat ID, attempting to rejoin group...","timestamp":"2025-03-22T11:34:32.431Z"}
+{"level":"info","message":"Bot 1 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:33.000Z"}
+{"level":"info","message":"Bot 1 member status: member","timestamp":"2025-03-22T11:34:33.382Z"}
+{"level":"info","message":"Bot 1 (Isma_dubai_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:33.382Z"}
+{"level":"info","message":"Bot 1 sent daily greeting: Good afternoon!","timestamp":"2025-03-22T11:34:38.210Z"}
+{"level":"info","message":"Bot 1 request succeeded after 1 retries","timestamp":"2025-03-22T11:34:39.968Z"}
+{"level":"info","message":"Bot 1 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:40.135Z"}
+{"level":"info","message":"Bot 8 request succeeded after 1 retries","timestamp":"2025-03-22T11:34:40.348Z"}
+{"level":"info","message":"Bot 1 member status: member","timestamp":"2025-03-22T11:34:40.468Z"}
+{"level":"info","message":"Bot 1 (Isma_dubai_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:40.469Z"}
+{"level":"info","message":"Bot 8 chat ID: -1002323603413","timestamp":"2025-03-22T11:34:40.548Z"}
+{"level":"info","message":"Bot 8 member status: member","timestamp":"2025-03-22T11:34:40.881Z"}
+{"level":"info","message":"Bot 8 (Kellen567_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T11:34:40.882Z"}
+{"level":"info","message":"Bot 10 initialized successfully","timestamp":"2025-03-22T11:34:52.364Z"}
+{"level":"info","message":"Bot 7 initialized successfully","timestamp":"2025-03-22T11:34:52.389Z"}
+{"level":"info","message":"Bot 15 initialized successfully","timestamp":"2025-03-22T11:35:00.730Z"}
+{"level":"info","message":"Bot 3 initialized successfully","timestamp":"2025-03-22T11:35:00.820Z"}
+{"level":"info","message":"Bot 5 initialized successfully","timestamp":"2025-03-22T11:35:00.826Z"}
+{"level":"info","message":"Bot 12 initialized successfully","timestamp":"2025-03-22T11:35:00.854Z"}
+{"level":"info","message":"Bot 2 initialized successfully","timestamp":"2025-03-22T11:35:00.860Z"}
+{"level":"info","message":"Bot 6 initialized successfully","timestamp":"2025-03-22T11:35:00.865Z"}
+{"level":"info","message":"Bot 14 initialized successfully","timestamp":"2025-03-22T11:35:00.877Z"}
+{"level":"info","message":"Bot 4 initialized successfully","timestamp":"2025-03-22T11:35:00.930Z"}
+{"level":"info","message":"Bot 11 initialized successfully","timestamp":"2025-03-22T11:35:00.930Z"}
+{"level":"info","message":"Bot 9 initialized successfully","timestamp":"2025-03-22T11:35:01.039Z"}
+{"level":"info","message":"Bot 13 initialized successfully","timestamp":"2025-03-22T11:35:01.090Z"}
+{"level":"info","message":"Bot 2 sent daily greeting: Hey everyone!","timestamp":"2025-03-22T11:35:03.673Z"}
+{"level":"info","message":"Bot 1 initialized successfully","timestamp":"2025-03-22T11:35:10.636Z"}
+{"level":"info","message":"Bot 8 initialized successfully","timestamp":"2025-03-22T11:35:11.059Z"}
+{"level":"info","message":"Bot 3 sent daily greeting: Hi everyone!","timestamp":"2025-03-22T11:35:21.969Z"}
+{"level":"info","message":"Bot 4 sent daily greeting: Hi everyone!","timestamp":"2025-03-22T11:35:46.145Z"}
+{"level":"info","message":"Bot 5 sent daily greeting: Night everyone!","timestamp":"2025-03-22T11:36:33.997Z"}
+{"level":"info","message":"Bot 1 has 157 new messages available","timestamp":"2025-03-22T11:39:38.213Z"}
+{"level":"info","message":"Bot 1 sent message: If the AI is as smart as they say, this will dominate.","timestamp":"2025-03-22T11:39:42.094Z"}
+{"level":"info","message":"Bot 2 has 156 new messages available","timestamp":"2025-03-22T11:40:03.676Z"}
+{"level":"info","message":"Bot 2 sent message: I think this is the kind of project that will attract serious liquidity.","timestamp":"2025-03-22T11:40:07.577Z"}
+{"level":"info","message":"Bot 3 has 155 new messages available","timestamp":"2025-03-22T11:40:21.981Z"}
+{"level":"info","message":"Bot 3 sent message: This presale is too bullish to ignore—get in while you can! 🔥","timestamp":"2025-03-22T11:40:25.926Z"}
+{"level":"info","message":"Bot 4 has 154 new messages available","timestamp":"2025-03-22T11:40:46.157Z"}
+{"level":"info","message":"Bot 4 sent message: The Quantik presale is going to be a game-changer! 🎮","timestamp":"2025-03-22T11:40:52.736Z"}
+{"level":"info","message":"Bot 5 has 153 new messages available","timestamp":"2025-03-22T11:41:34.020Z"}
+{"level":"info","message":"Bot 5 sent message: If they execute their vision, this could be a top DeFi protocol.","timestamp":"2025-03-22T11:41:36.932Z"}
+{"level":"info","message":"Bot 5 has 152 new messages available","timestamp":"2025-03-22T11:46:39.951Z"}
+{"level":"info","message":"Bot 5 sent message: The presale is buzzing—Quantik is ready to take off! 🚀","timestamp":"2025-03-22T11:46:43.449Z"}
+{"level":"info","message":"Bot 3 has 151 new messages available","timestamp":"2025-03-22T11:51:28.946Z"}
+{"level":"info","message":"Bot 3 sent message: The presale's on fire right now! Get your Quantik before it’s too late! 🔥","timestamp":"2025-03-22T11:51:31.729Z"}
+{"level":"info","message":"Bot 5 has 150 new messages available","timestamp":"2025-03-22T11:51:46.454Z"}
+{"level":"info","message":"Bot 5 sent message: This presale is the opportunity of a lifetime—Quantik is going to the moon! 🌕","timestamp":"2025-03-22T11:51:51.580Z"}
+{"level":"info","message":"Bot 1 has 149 new messages available","timestamp":"2025-03-22T11:52:45.101Z"}
+{"level":"info","message":"Bot 1 sent message: Cross-chain functionality is the future, and Quantik is leading the way.","timestamp":"2025-03-22T11:52:50.095Z"}
+{"level":"info","message":"Bot 2 has 148 new messages available","timestamp":"2025-03-22T11:58:10.585Z"}
+{"level":"info","message":"Bot 2 sent message: Quantik presale is one of the best opportunities in crypto right now! 💡","timestamp":"2025-03-22T11:58:16.672Z"}
+{"level":"info","message":"Bot 4 has 147 new messages available","timestamp":"2025-03-22T11:59:55.763Z"}
+{"level":"info","message":"Bot 4 sent message: If they nail that ZK security, it’s over for competitors.","timestamp":"2025-03-22T12:00:01.236Z"}
+{"level":"info","message":"Bot 3 has 146 new messages available","timestamp":"2025-03-22T12:03:34.749Z"}
+{"level":"info","message":"Bot 3 sent message: The Quantik presale is setting up for a big launch—don’t miss it! 🏁","timestamp":"2025-03-22T12:03:39.235Z"}
+{"level":"info","message":"Bot 6 sent daily greeting: Sweet dreams!","timestamp":"2025-03-22T12:04:34.438Z"}
+{"level":"info","message":"Bot 2 has 145 new messages available","timestamp":"2025-03-22T12:05:19.697Z"}
+{"level":"info","message":"Bot 2 sent message: The presale is looking so bullish—Quantik is going to be huge! 📈","timestamp":"2025-03-22T12:05:22.564Z"}
+{"level":"info","message":"Bot 1 has 144 new messages available","timestamp":"2025-03-22T12:06:53.105Z"}
+{"level":"info","message":"Bot 5 has 144 new messages available","timestamp":"2025-03-22T12:06:54.583Z"}
+{"level":"info","message":"Bot 5 sent message: Quantik’s presale is a rare opportunity—get in while it lasts! ⏳","timestamp":"2025-03-22T12:06:58.425Z"}
+{"level":"info","message":"Bot 1 sent message: Anyone else already in the Quantik presale? 💥","timestamp":"2025-03-22T12:06:59.163Z"}
+{"level":"info","message":"Bot 7 sent daily greeting: Sweet dreams!","timestamp":"2025-03-22T12:07:53.731Z"}
+{"level":"info","message":"Bot 6 has 142 new messages available","timestamp":"2025-03-22T12:09:34.452Z"}
+{"level":"info","message":"Bot 6 sent message: Presale prices won’t last long—Quantik is on the rise! 📈","timestamp":"2025-03-22T12:09:40.431Z"}
+{"level":"info","message":"Bot 3 has 141 new messages available","timestamp":"2025-03-22T12:10:42.252Z"}
+{"level":"info","message":"Bot 3 sent message: Institutional adoption will be the real test.","timestamp":"2025-03-22T12:10:44.948Z"}
+{"level":"info","message":"Bot 8 sent daily greeting: Night everyone!","timestamp":"2025-03-22T12:11:14.578Z"}
+{"level":"info","message":"Bot 2 has 140 new messages available","timestamp":"2025-03-22T12:11:25.589Z"}
+{"level":"info","message":"Bot 2 sent message: Quantik presale is the best opportunity to get in early! 💥","timestamp":"2025-03-22T12:11:28.649Z"}
+{"level":"info","message":"Bot 7 has 139 new messages available","timestamp":"2025-03-22T12:12:53.735Z"}
+{"level":"info","message":"Bot 7 sent message: The presale is heating up—Quantik is ready to take off! 🚀","timestamp":"2025-03-22T12:12:58.961Z"}
+{"level":"info","message":"Bot 1 has 138 new messages available","timestamp":"2025-03-22T12:14:02.171Z"}
+{"level":"info","message":"Bot 1 sent message: Just imagine the liquidity once they launch on all those chains.","timestamp":"2025-03-22T12:14:07.819Z"}
+{"level":"info","message":"Bot 9 sent daily greeting: Good morning!","timestamp":"2025-03-22T12:14:34.354Z"}
+{"level":"info","message":"Bot 7 has 137 new messages available","timestamp":"2025-03-22T12:15:01.985Z"}
+{"level":"info","message":"Bot 7 sent message: Once the presale is over, it’s gonna be hard to get Quantik at these prices! 💸","timestamp":"2025-03-22T12:15:05.216Z"}
+{"level":"info","message":"Bot 8 has 136 new messages available","timestamp":"2025-03-22T12:16:14.584Z"}
+{"level":"info","message":"Bot 8 sent message: Quantik’s presale is like an early Christmas—don’t miss your gift! 🎁","timestamp":"2025-03-22T12:16:19.186Z"}
+{"level":"info","message":"Bot 2 has 135 new messages available","timestamp":"2025-03-22T12:16:31.657Z"}
+{"level":"info","message":"Bot 2 sent message: Imagine if institutions start using this tech.","timestamp":"2025-03-22T12:16:36.679Z"}
+{"level":"info","message":"Bot 1 has 134 new messages available","timestamp":"2025-03-22T12:17:10.833Z"}
+{"level":"info","message":"Bot 1 sent message: I’m all in on Quantik—this presale is going to explode! 💣","timestamp":"2025-03-22T12:17:15.143Z"}
+{"level":"info","message":"Bot 10 sent daily greeting: Hey, good morning!","timestamp":"2025-03-22T12:17:54.642Z"}
+{"level":"info","message":"Bot 5 has 133 new messages available","timestamp":"2025-03-22T12:19:01.436Z"}
+{"level":"info","message":"Bot 5 sent message: The hype around Quantik is real! Get in now before it’s too late! ⏰","timestamp":"2025-03-22T12:19:04.322Z"}
+{"level":"info","message":"Bot 9 has 132 new messages available","timestamp":"2025-03-22T12:19:34.372Z"}
+{"level":"info","message":"Bot 9 sent message: Everything about this project screams innovation.","timestamp":"2025-03-22T12:19:37.406Z"}
+{"level":"info","message":"Bot 11 sent daily greeting: GM everyone!","timestamp":"2025-03-22T12:21:14.212Z"}
+{"level":"info","message":"Bot 4 has 131 new messages available","timestamp":"2025-03-22T12:22:04.237Z"}
+{"level":"info","message":"Bot 4 sent message: Quantik presale is about to change the game—be part of it! 🎮","timestamp":"2025-03-22T12:22:10.864Z"}
+{"level":"info","message":"Bot 2 has 130 new messages available","timestamp":"2025-03-22T12:22:39.685Z"}
+{"level":"info","message":"Bot 6 has 130 new messages available","timestamp":"2025-03-22T12:22:43.439Z"}
+{"level":"info","message":"Bot 2 sent message: Seems like Quantik will attract serious developers.","timestamp":"2025-03-22T12:22:45.528Z"}
+{"level":"info","message":"Bot 6 sent message: Seems like Quantik will attract serious developers.","timestamp":"2025-03-22T12:22:47.909Z"}
+{"level":"info","message":"Bot 10 has 129 new messages available","timestamp":"2025-03-22T12:22:54.651Z"}
+{"level":"info","message":"Bot 10 sent message: Time to get in on the Quantik presale before it’s too late! ⏳","timestamp":"2025-03-22T12:22:57.294Z"}
+{"level":"info","message":"Bot 12 sent daily greeting: Hi there!","timestamp":"2025-03-22T12:24:33.883Z"}
+{"level":"info","message":"Bot 10 has 128 new messages available","timestamp":"2025-03-22T12:26:00.332Z"}
+{"level":"info","message":"Bot 10 sent message: Quantik presale is the best opportunity I’ve seen in months! 📈","timestamp":"2025-03-22T12:26:04.968Z"}
+{"level":"info","message":"Bot 11 has 127 new messages available","timestamp":"2025-03-22T12:26:14.230Z"}
+{"level":"info","message":"Bot 11 sent message: I’m putting my trust in Quantik—this presale is going to take us places! 🌍","timestamp":"2025-03-22T12:26:18.026Z"}
+{"level":"info","message":"Bot 2 has 126 new messages available","timestamp":"2025-03-22T12:27:48.540Z"}
+{"level":"info","message":"Bot 13 sent daily greeting: Hey folks!","timestamp":"2025-03-22T12:27:54.135Z"}
+{"level":"info","message":"Bot 2 sent message: Once the presale ends, it’ll be too late to get Quantik at these prices! ⏳","timestamp":"2025-03-22T12:27:54.462Z"}
+{"level":"info","message":"Bot 6 has 125 new messages available","timestamp":"2025-03-22T12:28:50.924Z"}
+{"level":"info","message":"Bot 6 sent message: GM! Quantik presale is happening now—let’s gooo! 🙌","timestamp":"2025-03-22T12:28:57.318Z"}
+{"level":"info","message":"Bot 12 has 124 new messages available","timestamp":"2025-03-22T12:29:33.904Z"}
+{"level":"info","message":"Bot 12 sent message: I’m already in the presale. Are you? Quantik’s got huge potential! 💸","timestamp":"2025-03-22T12:29:39.250Z"}
+{"level":"info","message":"Cleaning up...","timestamp":"2025-03-22T12:31:10.174Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.626Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.655Z"}
+{"level":"info","message":"Bot 9 waiting for initial delay of 40 minutes","timestamp":"2025-03-22T12:31:53.680Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.041Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.359Z"}
+{"level":"info","message":"Bot 2 waiting for initial delay of 0.5 minutes","timestamp":"2025-03-22T12:31:53.435Z"}
+{"level":"info","message":"Bot 4 waiting for initial delay of 1.2 minutes","timestamp":"2025-03-22T12:31:53.725Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.641Z"}
+{"level":"info","message":"Bot 1 waiting for initial delay of 0 minutes","timestamp":"2025-03-22T12:31:53.666Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.639Z"}
+{"level":"info","message":"Bot 5 waiting for initial delay of 2 minutes","timestamp":"2025-03-22T12:31:53.714Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.916Z"}
+{"level":"info","message":"Bot 3 waiting for initial delay of 0.8 minutes","timestamp":"2025-03-22T12:31:53.958Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.169Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.583Z"}
+{"level":"info","message":"Bot 8 waiting for initial delay of 36.666666666666664 minutes","timestamp":"2025-03-22T12:31:53.702Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.858Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.202Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.627Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.208Z"}
+{"level":"info","message":"Bot 12 waiting for initial delay of 50 minutes","timestamp":"2025-03-22T12:31:53.651Z"}
+{"level":"info","message":"Bot 13 waiting for initial delay of 53.33333333333333 minutes","timestamp":"2025-03-22T12:31:53.916Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.223Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.829Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.871Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.283Z"}
+{"level":"info","message":"Bot 7 waiting for initial delay of 33.333333333333336 minutes","timestamp":"2025-03-22T12:31:53.875Z"}
+{"level":"info","message":"Bot 15 waiting for initial delay of 60 minutes","timestamp":"2025-03-22T12:31:53.924Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.283Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.635Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.326Z"}
+{"level":"info","message":"Bot 10 waiting for initial delay of 43.33333333333333 minutes","timestamp":"2025-03-22T12:31:53.720Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.327Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:54.072Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.346Z"}
+{"level":"info","message":"Bot 14 waiting for initial delay of 56.666666666666664 minutes","timestamp":"2025-03-22T12:31:54.088Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.887Z"}
+{"level":"info","message":"Bot 11 waiting for initial delay of 46.66666666666667 minutes","timestamp":"2025-03-22T12:31:53.937Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.354Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.377Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.392Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:31:53.921Z"}
+{"level":"info","message":"Bot 6 waiting for initial delay of 30 minutes","timestamp":"2025-03-22T12:31:54.090Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.408Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:31:54.415Z"}
+{"level":"info","message":"Bot 4 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:54.775Z"}
+{"level":"info","message":"Bot 9 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:54.811Z"}
+{"level":"info","message":"Bot 5 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:54.869Z"}
+{"level":"info","message":"Bot 2 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:54.891Z"}
+{"level":"info","message":"Bot 8 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:54.893Z"}
+{"level":"info","message":"Bot 3 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:54.902Z"}
+{"level":"info","message":"Bot 1 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:54.921Z"}
+{"level":"info","message":"Bot 12 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:54.944Z"}
+{"level":"info","message":"Bot 7 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:54.972Z"}
+{"level":"info","message":"Bot 15 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:54.979Z"}
+{"level":"info","message":"Bot 10 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:55.025Z"}
+{"level":"info","message":"Bot 6 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:55.037Z"}
+{"level":"info","message":"Bot 14 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:55.078Z"}
+{"level":"info","message":"Bot 11 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:55.080Z"}
+{"level":"info","message":"Bot 4 member status: member","timestamp":"2025-03-22T12:31:55.113Z"}
+{"level":"info","message":"Bot 4 (Ashley4789_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.114Z"}
+{"level":"info","message":"Bot 13 chat ID: -1002323603413","timestamp":"2025-03-22T12:31:55.121Z"}
+{"level":"info","message":"Bot 9 member status: member","timestamp":"2025-03-22T12:31:55.143Z"}
+{"level":"info","message":"Bot 9 (Destiny256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.144Z"}
+{"level":"info","message":"Bot 5 member status: member","timestamp":"2025-03-22T12:31:55.202Z"}
+{"level":"info","message":"Bot 5 (Klyn_doge_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.202Z"}
+{"level":"info","message":"Bot 2 member status: member","timestamp":"2025-03-22T12:31:55.226Z"}
+{"level":"info","message":"Bot 2 (quanti_details_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.226Z"}
+{"level":"info","message":"Bot 3 member status: member","timestamp":"2025-03-22T12:31:55.237Z"}
+{"level":"info","message":"Bot 3 (Andelmark256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.237Z"}
+{"level":"info","message":"Bot 8 member status: member","timestamp":"2025-03-22T12:31:55.248Z"}
+{"level":"info","message":"Bot 8 (Crypto_guy_256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.248Z"}
+{"level":"info","message":"Bot 1 member status: member","timestamp":"2025-03-22T12:31:55.258Z"}
+{"level":"info","message":"Bot 1 (quantiam_ad_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.258Z"}
+{"level":"info","message":"Bot 12 member status: administrator","timestamp":"2025-03-22T12:31:55.276Z"}
+{"level":"info","message":"Bot 12 (Kyle345_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.276Z"}
+{"level":"info","message":"Bot 7 member status: member","timestamp":"2025-03-22T12:31:55.307Z"}
+{"level":"info","message":"Bot 7 (Malik_uae_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.308Z"}
+{"level":"info","message":"Bot 15 member status: member","timestamp":"2025-03-22T12:31:55.312Z"}
+{"level":"info","message":"Bot 15 (Isma_dubai_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.312Z"}
+{"level":"info","message":"Bot 10 member status: member","timestamp":"2025-03-22T12:31:55.357Z"}
+{"level":"info","message":"Bot 10 (Teddymark68799_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.358Z"}
+{"level":"info","message":"Bot 6 member status: member","timestamp":"2025-03-22T12:31:55.370Z"}
+{"level":"info","message":"Bot 6 (Damascus256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.370Z"}
+{"level":"info","message":"Bot 14 member status: member","timestamp":"2025-03-22T12:31:55.414Z"}
+{"level":"info","message":"Bot 11 member status: administrator","timestamp":"2025-03-22T12:31:55.414Z"}
+{"level":"info","message":"Bot 14 (Macusderrick_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.414Z"}
+{"level":"info","message":"Bot 11 (Lindaz_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.414Z"}
+{"level":"info","message":"Bot 13 member status: member","timestamp":"2025-03-22T12:31:55.454Z"}
+{"level":"info","message":"Bot 13 (Kellen567_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:31:55.454Z"}
+{"level":"info","message":"Bot 1 sent daily greeting: Hi there","timestamp":"2025-03-22T12:31:58.919Z"}
+{"level":"info","message":"Bot 11 initialized successfully","timestamp":"2025-03-22T12:32:16.814Z"}
+{"level":"info","message":"Bot 12 initialized successfully","timestamp":"2025-03-22T12:32:16.938Z"}
+{"level":"info","message":"Bot 4 initialized successfully","timestamp":"2025-03-22T12:32:25.282Z"}
+{"level":"info","message":"Bot 9 initialized successfully","timestamp":"2025-03-22T12:32:25.313Z"}
+{"level":"info","message":"Bot 5 initialized successfully","timestamp":"2025-03-22T12:32:25.381Z"}
+{"level":"info","message":"Bot 2 initialized successfully","timestamp":"2025-03-22T12:32:25.396Z"}
+{"level":"info","message":"Bot 3 initialized successfully","timestamp":"2025-03-22T12:32:25.406Z"}
+{"level":"info","message":"Bot 8 initialized successfully","timestamp":"2025-03-22T12:32:25.416Z"}
+{"level":"info","message":"Bot 7 initialized successfully","timestamp":"2025-03-22T12:32:25.476Z"}
+{"level":"info","message":"Bot 1 initialized successfully","timestamp":"2025-03-22T12:32:25.479Z"}
+{"level":"info","message":"Bot 15 initialized successfully","timestamp":"2025-03-22T12:32:25.486Z"}
+{"level":"info","message":"Bot 10 initialized successfully","timestamp":"2025-03-22T12:32:25.525Z"}
+{"level":"info","message":"Bot 6 initialized successfully","timestamp":"2025-03-22T12:32:25.544Z"}
+{"level":"info","message":"Bot 14 initialized successfully","timestamp":"2025-03-22T12:32:25.587Z"}
+{"level":"info","message":"Bot 13 initialized successfully","timestamp":"2025-03-22T12:32:25.627Z"}
+{"level":"info","message":"Bot 2 sent daily greeting: Hey folks","timestamp":"2025-03-22T12:32:27.904Z"}
+{"level":"info","message":"Bot 3 sent daily greeting: Hey, hope you're having a great evening","timestamp":"2025-03-22T12:32:48.190Z"}
+{"level":"info","message":"Bot 4 sent daily greeting: Hey, hope you're having a great evening","timestamp":"2025-03-22T12:33:12.020Z"}
+{"level":"info","message":"Bot 5 sent daily greeting: Hey, hope you had a good day","timestamp":"2025-03-22T12:33:59.575Z"}
+{"level":"info","message":"Bot 1 has 157 new messages available","timestamp":"2025-03-22T12:36:58.925Z"}
+{"level":"info","message":"Bot 1 sent message: This presale is the opportunity of a lifetime—Quantik is going to the moon 🌕","timestamp":"2025-03-22T12:37:03.918Z"}
+{"level":"info","message":"Bot 2 has 156 new messages available","timestamp":"2025-03-22T12:37:27.907Z"}
+{"level":"info","message":"Bot 2 sent message: Excited to see how fast the ecosystem grows.","timestamp":"2025-03-22T12:37:33.487Z"}
+{"level":"info","message":"Bot 3 has 155 new messages available","timestamp":"2025-03-22T12:37:48.208Z"}
+{"level":"info","message":"Bot 3 sent message: Looks like the presale is moving fast, don’t miss out on Quantik ⏳","timestamp":"2025-03-22T12:37:51.070Z"}
+{"level":"info","message":"Bot 4 has 154 new messages available","timestamp":"2025-03-22T12:38:12.034Z"}
+{"level":"info","message":"Bot 4 sent message: The beta release will tell us if this project is the real deal.","timestamp":"2025-03-22T12:38:16.106Z"}
+{"level":"info","message":"Bot 5 has 153 new messages available","timestamp":"2025-03-22T12:38:59.597Z"}
+{"level":"info","message":"Bot 5 sent message: Don’t let this opportunity slip by—Quantik’s presale is about to close ⏰","timestamp":"2025-03-22T12:39:02.518Z"}
+{"level":"info","message":"Cleaning up...","timestamp":"2025-03-22T12:39:09.813Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.624Z"}
+{"level":"info","message":"Bot 12 waiting for initial delay of 50 minutes","timestamp":"2025-03-22T12:39:20.680Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:20.983Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.405Z"}
+{"level":"info","message":"Bot 1 waiting for initial delay of 0 minutes","timestamp":"2025-03-22T12:39:20.489Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.071Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.580Z"}
+{"level":"info","message":"Bot 3 waiting for initial delay of 0.8 minutes","timestamp":"2025-03-22T12:39:20.655Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.581Z"}
+{"level":"info","message":"Bot 14 waiting for initial delay of 56.666666666666664 minutes","timestamp":"2025-03-22T12:39:20.650Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.112Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.701Z"}
+{"level":"info","message":"Bot 6 waiting for initial delay of 30 minutes","timestamp":"2025-03-22T12:39:20.777Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.693Z"}
+{"level":"info","message":"Bot 10 waiting for initial delay of 43.33333333333333 minutes","timestamp":"2025-03-22T12:39:20.738Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.807Z"}
+{"level":"info","message":"Bot 11 waiting for initial delay of 46.66666666666667 minutes","timestamp":"2025-03-22T12:39:20.832Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.161Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.173Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.662Z"}
+{"level":"info","message":"Bot 9 waiting for initial delay of 40 minutes","timestamp":"2025-03-22T12:39:20.724Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.187Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.706Z"}
+{"level":"info","message":"Bot 15 waiting for initial delay of 60 minutes","timestamp":"2025-03-22T12:39:20.786Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.207Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.556Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.214Z"}
+{"level":"info","message":"Bot 8 waiting for initial delay of 36.666666666666664 minutes","timestamp":"2025-03-22T12:39:20.635Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.219Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.294Z"}
+{"level":"info","message":"Bot 7 waiting for initial delay of 33.333333333333336 minutes","timestamp":"2025-03-22T12:39:20.378Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.359Z"}
+{"level":"info","message":"Bot 4 waiting for initial delay of 1.2 minutes","timestamp":"2025-03-22T12:39:20.437Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.245Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.408Z"}
+{"level":"info","message":"Bot 5 waiting for initial delay of 2 minutes","timestamp":"2025-03-22T12:39:20.558Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.256Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.818Z"}
+{"level":"info","message":"Bot 13 waiting for initial delay of 53.33333333333333 minutes","timestamp":"2025-03-22T12:39:20.866Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:39:20.771Z"}
+{"level":"info","message":"Bot 2 waiting for initial delay of 0.5 minutes","timestamp":"2025-03-22T12:39:20.827Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.269Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.271Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.274Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:39:21.276Z"}
+{"level":"info","message":"Bot 12 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.691Z"}
+{"level":"info","message":"Bot 1 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.706Z"}
+{"level":"info","message":"Bot 10 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.722Z"}
+{"level":"info","message":"Bot 14 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.742Z"}
+{"level":"info","message":"Bot 11 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.751Z"}
+{"level":"info","message":"Bot 3 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.772Z"}
+{"level":"info","message":"Bot 7 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.777Z"}
+{"level":"info","message":"Bot 8 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.801Z"}
+{"level":"info","message":"Bot 4 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.823Z"}
+{"level":"info","message":"Bot 6 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.849Z"}
+{"level":"info","message":"Bot 9 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.891Z"}
+{"level":"info","message":"Bot 2 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.915Z"}
+{"level":"info","message":"Bot 15 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.915Z"}
+{"level":"info","message":"Bot 5 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.952Z"}
+{"level":"info","message":"Bot 13 chat ID: -1002323603413","timestamp":"2025-03-22T12:39:21.964Z"}
+{"level":"info","message":"Bot 12 member status: administrator","timestamp":"2025-03-22T12:39:22.024Z"}
+{"level":"info","message":"Bot 12 (Lindaz_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.025Z"}
+{"level":"info","message":"Bot 1 member status: member","timestamp":"2025-03-22T12:39:22.039Z"}
+{"level":"info","message":"Bot 1 (Macusderrick_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.039Z"}
+{"level":"info","message":"Bot 10 member status: member","timestamp":"2025-03-22T12:39:22.057Z"}
+{"level":"info","message":"Bot 10 (quanti_details_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.058Z"}
+{"level":"info","message":"Bot 14 member status: member","timestamp":"2025-03-22T12:39:22.077Z"}
+{"level":"info","message":"Bot 14 (Damascus256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.077Z"}
+{"level":"info","message":"Bot 11 member status: member","timestamp":"2025-03-22T12:39:22.092Z"}
+{"level":"info","message":"Bot 11 (Crypto_guy_256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.092Z"}
+{"level":"info","message":"Bot 3 member status: member","timestamp":"2025-03-22T12:39:22.106Z"}
+{"level":"info","message":"Bot 3 (Klyn_doge_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.106Z"}
+{"level":"info","message":"Bot 7 member status: member","timestamp":"2025-03-22T12:39:22.113Z"}
+{"level":"info","message":"Bot 7 (Malik_uae_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.113Z"}
+{"level":"info","message":"Bot 8 member status: member","timestamp":"2025-03-22T12:39:22.140Z"}
+{"level":"info","message":"Bot 8 (Destiny256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.140Z"}
+{"level":"info","message":"Bot 4 member status: member","timestamp":"2025-03-22T12:39:22.156Z"}
+{"level":"info","message":"Bot 4 (Teddymark68799_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.157Z"}
+{"level":"info","message":"Bot 6 member status: member","timestamp":"2025-03-22T12:39:22.182Z"}
+{"level":"info","message":"Bot 6 (Kellen567_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.182Z"}
+{"level":"info","message":"Bot 9 member status: member","timestamp":"2025-03-22T12:39:22.234Z"}
+{"level":"info","message":"Bot 9 (Ashley4789_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.234Z"}
+{"level":"info","message":"Bot 15 member status: administrator","timestamp":"2025-03-22T12:39:22.257Z"}
+{"level":"info","message":"Bot 15 (Kyle345_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.257Z"}
+{"level":"info","message":"Bot 5 member status: member","timestamp":"2025-03-22T12:39:22.285Z"}
+{"level":"info","message":"Bot 5 (Andelmark256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.285Z"}
+{"level":"info","message":"Bot 13 member status: member","timestamp":"2025-03-22T12:39:22.296Z"}
+{"level":"info","message":"Bot 13 (quantiam_ad_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.296Z"}
+{"level":"info","message":"Bot 2 member status: member","timestamp":"2025-03-22T12:39:22.306Z"}
+{"level":"info","message":"Bot 2 (Isma_dubai_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:39:22.307Z"}
+{"level":"info","message":"Bot 1 sent daily greeting: Good afternoon","timestamp":"2025-03-22T12:39:26.041Z"}
+{"level":"info","message":"Bot 1 initialized successfully","timestamp":"2025-03-22T12:39:52.207Z"}
+{"level":"info","message":"Bot 12 initialized successfully","timestamp":"2025-03-22T12:39:52.207Z"}
+{"level":"info","message":"Bot 10 initialized successfully","timestamp":"2025-03-22T12:39:52.229Z"}
+{"level":"info","message":"Bot 11 initialized successfully","timestamp":"2025-03-22T12:39:52.259Z"}
+{"level":"info","message":"Bot 3 initialized successfully","timestamp":"2025-03-22T12:39:52.274Z"}
+{"level":"info","message":"Bot 7 initialized successfully","timestamp":"2025-03-22T12:39:52.287Z"}
+{"level":"info","message":"Bot 8 initialized successfully","timestamp":"2025-03-22T12:39:52.312Z"}
+{"level":"info","message":"Bot 4 initialized successfully","timestamp":"2025-03-22T12:39:52.325Z"}
+{"level":"info","message":"Bot 6 initialized successfully","timestamp":"2025-03-22T12:39:52.360Z"}
+{"level":"info","message":"Bot 14 initialized successfully","timestamp":"2025-03-22T12:39:52.380Z"}
+{"level":"info","message":"Bot 9 initialized successfully","timestamp":"2025-03-22T12:39:52.404Z"}
+{"level":"info","message":"Bot 15 initialized successfully","timestamp":"2025-03-22T12:39:52.428Z"}
+{"level":"info","message":"Bot 5 initialized successfully","timestamp":"2025-03-22T12:39:52.459Z"}
+{"level":"info","message":"Bot 13 initialized successfully","timestamp":"2025-03-22T12:39:52.472Z"}
+{"level":"info","message":"Bot 2 initialized successfully","timestamp":"2025-03-22T12:39:52.479Z"}
+{"level":"info","message":"Bot 2 sent daily greeting: Hi there","timestamp":"2025-03-22T12:39:55.231Z"}
+{"level":"info","message":"Bot 3 sent daily greeting: Evening all","timestamp":"2025-03-22T12:40:13.509Z"}
+{"level":"info","message":"Bot 4 sent daily greeting: Hi everyone","timestamp":"2025-03-22T12:40:37.273Z"}
+{"level":"info","message":"Bot 5 sent daily greeting: Good night","timestamp":"2025-03-22T12:41:25.417Z"}
+{"level":"info","message":"Cleaning up...","timestamp":"2025-03-22T12:42:05.735Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.192Z"}
+{"level":"info","message":"Bot 3 waiting for initial delay of 0.8 minutes","timestamp":"2025-03-22T12:42:16.264Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.360Z"}
+{"level":"info","message":"Bot 4 waiting for initial delay of 1.2 minutes","timestamp":"2025-03-22T12:42:16.412Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.666Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.134Z"}
+{"level":"info","message":"Bot 15 waiting for initial delay of 60 minutes","timestamp":"2025-03-22T12:42:16.208Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.675Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.166Z"}
+{"level":"info","message":"Bot 2 waiting for initial delay of 0.5 minutes","timestamp":"2025-03-22T12:42:16.226Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.266Z"}
+{"level":"info","message":"Bot 12 waiting for initial delay of 50 minutes","timestamp":"2025-03-22T12:42:16.319Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.706Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.258Z"}
+{"level":"info","message":"Bot 13 waiting for initial delay of 53.33333333333333 minutes","timestamp":"2025-03-22T12:42:16.345Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.720Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.116Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.750Z"}
+{"level":"info","message":"Bot 6 waiting for initial delay of 30 minutes","timestamp":"2025-03-22T12:42:16.203Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.157Z"}
+{"level":"info","message":"Bot 9 waiting for initial delay of 40 minutes","timestamp":"2025-03-22T12:42:16.228Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.803Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.815Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.481Z"}
+{"level":"info","message":"Bot 14 waiting for initial delay of 56.666666666666664 minutes","timestamp":"2025-03-22T12:42:16.536Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.831Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.459Z"}
+{"level":"info","message":"Bot 5 waiting for initial delay of 2 minutes","timestamp":"2025-03-22T12:42:16.484Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.838Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.843Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.310Z"}
+{"level":"info","message":"Bot 7 waiting for initial delay of 33.333333333333336 minutes","timestamp":"2025-03-22T12:42:16.381Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.004Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.854Z"}
+{"level":"info","message":"Bot 1 waiting for initial delay of 0 minutes","timestamp":"2025-03-22T12:42:16.070Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.863Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.274Z"}
+{"level":"info","message":"Bot 8 waiting for initial delay of 36.666666666666664 minutes","timestamp":"2025-03-22T12:42:16.339Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.872Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.071Z"}
+{"level":"info","message":"Bot 10 waiting for initial delay of 43.33333333333333 minutes","timestamp":"2025-03-22T12:42:16.141Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.879Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-03-22T12:42:16.138Z"}
+{"level":"info","message":"Bot 11 waiting for initial delay of 46.66666666666667 minutes","timestamp":"2025-03-22T12:42:16.195Z"}
+{"level":"info","message":"Cleared message history on startup","timestamp":"2025-03-22T12:42:16.886Z"}
+{"level":"info","message":"Bot 6 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.333Z"}
+{"level":"info","message":"Bot 3 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.352Z"}
+{"level":"info","message":"Bot 15 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.366Z"}
+{"level":"info","message":"Bot 9 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.401Z"}
+{"level":"info","message":"Bot 13 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.417Z"}
+{"level":"info","message":"Bot 1 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.429Z"}
+{"level":"info","message":"Bot 4 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.437Z"}
+{"level":"info","message":"Bot 12 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.462Z"}
+{"level":"info","message":"Bot 10 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.462Z"}
+{"level":"info","message":"Bot 8 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.475Z"}
+{"level":"info","message":"Bot 5 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.610Z"}
+{"level":"info","message":"Bot 14 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.611Z"}
+{"level":"info","message":"Bot 2 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.612Z"}
+{"level":"info","message":"Bot 7 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.618Z"}
+{"level":"info","message":"Bot 6 member status: member","timestamp":"2025-03-22T12:42:17.682Z"}
+{"level":"info","message":"Bot 6 (Kellen567_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.682Z"}
+{"level":"info","message":"Bot 3 member status: administrator","timestamp":"2025-03-22T12:42:17.694Z"}
+{"level":"info","message":"Bot 3 (Kyle345_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.695Z"}
+{"level":"info","message":"Bot 15 member status: member","timestamp":"2025-03-22T12:42:17.699Z"}
+{"level":"info","message":"Bot 15 (Teddymark68799_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.699Z"}
+{"level":"info","message":"Bot 11 chat ID: -1002323603413","timestamp":"2025-03-22T12:42:17.713Z"}
+{"level":"info","message":"Bot 9 member status: member","timestamp":"2025-03-22T12:42:17.752Z"}
+{"level":"info","message":"Bot 9 (Macusderrick_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.753Z"}
+{"level":"info","message":"Bot 1 member status: member","timestamp":"2025-03-22T12:42:17.760Z"}
+{"level":"info","message":"Bot 1 (Malik_uae_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.761Z"}
+{"level":"info","message":"Bot 13 member status: member","timestamp":"2025-03-22T12:42:17.763Z"}
+{"level":"info","message":"Bot 13 (Crypto_guy_256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.763Z"}
+{"level":"info","message":"Bot 4 member status: member","timestamp":"2025-03-22T12:42:17.779Z"}
+{"level":"info","message":"Bot 4 (Andelmark256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.780Z"}
+{"level":"info","message":"Bot 12 member status: administrator","timestamp":"2025-03-22T12:42:17.796Z"}
+{"level":"info","message":"Bot 12 (Lindaz_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.796Z"}
+{"level":"info","message":"Bot 10 member status: member","timestamp":"2025-03-22T12:42:17.807Z"}
+{"level":"info","message":"Bot 10 (Destiny256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.807Z"}
+{"level":"info","message":"Bot 8 member status: member","timestamp":"2025-03-22T12:42:17.810Z"}
+{"level":"info","message":"Bot 8 (Damascus256_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.810Z"}
+{"level":"info","message":"Bot 5 member status: member","timestamp":"2025-03-22T12:42:17.948Z"}
+{"level":"info","message":"Bot 5 (Ashley4789_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.948Z"}
+{"level":"info","message":"Bot 14 member status: member","timestamp":"2025-03-22T12:42:17.954Z"}
+{"level":"info","message":"Bot 14 (quantiam_ad_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.954Z"}
+{"level":"info","message":"Bot 2 member status: member","timestamp":"2025-03-22T12:42:17.957Z"}
+{"level":"info","message":"Bot 2 (Klyn_doge_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.957Z"}
+{"level":"info","message":"Bot 7 member status: member","timestamp":"2025-03-22T12:42:17.962Z"}
+{"level":"info","message":"Bot 7 (quanti_details_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:17.962Z"}
+{"level":"info","message":"Bot 11 member status: member","timestamp":"2025-03-22T12:42:18.076Z"}
+{"level":"info","message":"Bot 11 (Isma_dubai_bot) successfully connected to group meandsaint","timestamp":"2025-03-22T12:42:18.076Z"}
+{"level":"info","message":"Bot 1 sent daily greeting: Hey folks","timestamp":"2025-03-22T12:42:21.559Z"}
+{"level":"info","message":"Bot 6 initialized successfully","timestamp":"2025-03-22T12:42:47.863Z"}
+{"level":"info","message":"Bot 15 initialized successfully","timestamp":"2025-03-22T12:42:47.867Z"}
+{"level":"info","message":"Bot 3 initialized successfully","timestamp":"2025-03-22T12:42:47.867Z"}
+{"level":"info","message":"Bot 9 initialized successfully","timestamp":"2025-03-22T12:42:47.920Z"}
+{"level":"info","message":"Bot 1 initialized successfully","timestamp":"2025-03-22T12:42:47.928Z"}
+{"level":"info","message":"Bot 13 initialized successfully","timestamp":"2025-03-22T12:42:47.938Z"}
+{"level":"info","message":"Bot 4 initialized successfully","timestamp":"2025-03-22T12:42:47.949Z"}
+{"level":"info","message":"Bot 12 initialized successfully","timestamp":"2025-03-22T12:42:47.968Z"}
+{"level":"info","message":"Bot 8 initialized successfully","timestamp":"2025-03-22T12:42:47.980Z"}
+{"level":"info","message":"Bot 10 initialized successfully","timestamp":"2025-03-22T12:42:47.987Z"}
+{"level":"info","message":"Bot 5 initialized successfully","timestamp":"2025-03-22T12:42:48.125Z"}
+{"level":"info","message":"Bot 14 initialized successfully","timestamp":"2025-03-22T12:42:48.133Z"}
+{"level":"info","message":"Bot 7 initialized successfully","timestamp":"2025-03-22T12:42:48.136Z"}
+{"level":"info","message":"Bot 2 initialized successfully","timestamp":"2025-03-22T12:42:48.139Z"}
+{"level":"info","message":"Bot 11 initialized successfully","timestamp":"2025-03-22T12:42:48.249Z"}
+{"level":"info","message":"Bot 2 sent daily greeting: Hey everyone","timestamp":"2025-03-22T12:42:50.752Z"}
+{"level":"info","message":"Bot 3 sent daily greeting: Hi everyone","timestamp":"2025-03-22T12:43:09.138Z"}
+{"level":"info","message":"Bot 4 sent daily greeting: Evening all","timestamp":"2025-03-22T12:43:33.315Z"}
+{"level":"info","message":"Bot 5 sent daily greeting: Hey, hope you had a good day","timestamp":"2025-03-22T12:44:22.180Z"}
+{"level":"info","message":"Bot 1 has 157 new messages available","timestamp":"2025-03-22T12:47:21.566Z"}
+{"level":"info","message":"Bot 1 sent message: I’m stacking up on Quantik during this presale—this is the one 📊","timestamp":"2025-03-22T12:47:24.559Z"}
+{"level":"info","message":"Bot 2 has 156 new messages available","timestamp":"2025-03-22T12:47:50.755Z"}
+{"level":"info","message":"Bot 2 sent message: This presale is where the real opportunity is—don’t miss out on Quantik 💥","timestamp":"2025-03-22T12:47:54.497Z"}
