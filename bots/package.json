@@ -1,0 +1,15 @@
+{
+    "name": "telegram_bot",
+    "version": "1.0.0",
+    "description": "bots",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "node-telegram-bot-api": "^0.61.0",
+      "sqlite3": "^5.0.2",
+      "winston": "^3.8.2",
+      "worker_threads": "^1.6.2"
+    }
+  }
